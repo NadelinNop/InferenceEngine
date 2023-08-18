@@ -1,1 +1,1 @@
-# InferenceEngine
+Inference Engine for propositional logic in software based on the Truth Table Checking, and Backward Chaining, Forward Chaining algorithms. This inference engine will take in arguments as Horn-form Knowledge Base and query as a proposition symbol. 
